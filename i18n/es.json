@@ -1,0 +1,53 @@
+{
+    "COMMON": {
+        "WELCOME": "Bienvenido a",
+        "HOME": "Inicio",
+        "MENU": "Menú",
+        "OFFERS": "Ofertas",
+        "CONTACT": "Contacto",
+        "ALL": "Todos",
+        "GOURMET": "Gourmet",
+        "VIEW_MENU": "Ver Menú",
+        "OUR_MENU": "Nuestro Menú",
+        "TAGLINE": "Sabor que enamora",
+        "WHATSAPP_ORDER": "Pedir por WhatsApp",
+        "LOCATION": "Ubicación",
+        "VIEW_MAP": "Ver en el mapa",
+        "CURRENCY": "USD",
+        "ASSISTANT": "Asistente",
+        "ASSISTANT_TITLE": "Asistente de Pedidos",
+        "DEALS_OF_DAY": "Ofertas del Día",
+        "OFFER": "Oferta",
+        "STEP": "Paso",
+        "PREVIOUS": "Anterior",
+        "CONTINUE": "Continuar",
+        "FINISH": "Pedir por WhatsApp",
+        "ORDER": "Pedir",
+        "ORDER_NOW": "Pedir ahora",
+        "SUMMARY": "Resumen del Pedido",
+        "SHARE_ORDER": "Copiar / Compartir",
+        "RESERVE": "Reservar",
+        "RESERVE_WA": "Reservar por WhatsApp",
+        "YOUR_CART": "Tu Carrito",
+        "TOTAL": "Total",
+        "QTY": "Cant",
+        "SOLD_OUT": "Agotado",
+        "SOLD_OUT_SHORT": "Agotado",
+        "LOW_STOCK": "Quedan pocos",
+        "AVAILABLE": "Disponible",
+        "QUICK_LINKS": "Enlaces rápidos",
+        "SEARCH": "Buscar platillos..."
+    },
+    "CATEGORIES": {
+        "entradas": "Entradas",
+        "platos_fuertes": "Platos Fuertes",
+        "pastas": "Pastas",
+        "postres": "Postres",
+        "bebidas": "Bebidas"
+    },
+    "PRODUCTS": {
+        "1": { "name": "Bruschetta Clásica", "desc": "Pan con tomate y albahaca." },
+        "2": { "name": "Ceviche de Camarón", "desc": "Camarones marinados en limón." },
+        "3": { "name": "Filete Miñón", "desc": "Corte premium a la parrilla." }
+    }
+}
