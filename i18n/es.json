@@ -54,7 +54,8 @@
         "ADD_MORE": "Añadir más",
         "PRODUCT_NOT_FOUND": "Producto no encontrado",
         "BACK_HOME": "Volver al inicio",
-        "NO_DESCRIPTION": "Sin descripción disponible"
+        "NO_DESCRIPTION": "Sin descripción disponible",
+        "VIEW_CART": "Ver Carrito"
     },
     "CATEGORIES": {
         "entradas": "Entradas",

@@ -54,6 +54,7 @@
         "ADD_MORE": "Add more",
         "PRODUCT_NOT_FOUND": "Product not found",
         "BACK_HOME": "Back to home",
-        "NO_DESCRIPTION": "No description available"
+        "NO_DESCRIPTION": "No description available",
+        "VIEW_CART": "View Cart"
     }
 }
